@@ -399,7 +399,7 @@ def main(_):
 #  FLAGS.dataset_split_name='train' 
 #  FLAGS.dataset_dir=DATASET_DIR
 #  FLAGS.model_name=MODEL_NAME
-#  FLAGS.checkpoint_path='D:/pig_recognize/pig_slim1/checkpoints/inception_resnet_v2_2016_08_30.ckpt'
+#  FLAGS.checkpoint_path='D:/pig_recognize/pig_slim1/checkpoints/inception_resnet_v2_2016_09_30.ckpt'
 ##  FLAGS.checkpoint_path='D:/pig_recognize/pig_slim1/flowers-models/inception_resnet_v2/all/model.ckpt-55000'
 #  FLAGS.checkpoint_exclude_scopes='InceptionResnetV2/Logits,InceptionResnetV2/AuxLogits' 
 #  FLAGS.trainable_scopes='InceptionResnetV2/Logits,InceptionResnetV2/AuxLogits' 
